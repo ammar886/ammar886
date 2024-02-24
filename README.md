@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm KhizarJamshaidIqbal</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khizarjamshaidiqbal&label=Profile%20views&color=0e75b6&style=flat" alt="khizarjamshaidiqbal" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ammar886&label=Profile%20views&color=0e75b6&style=flat" alt="ammar886" /> </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khizarjamshaidiqbal" alt="khizarjamshaidiqbal" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ammar886" alt="ammar886" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/khizarjamshaid_" target="blank"><img src="https://img.shields.io/twitter/follow/khizarjamshaid_?logo=twitter&style=for-the-badge" alt="khizarjamshaid_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/khizarjamshaid_" target="blank"><img src="https://img.shields.io/twitter/follow/ammar886?logo=twitter&style=for-the-badge" alt="khizarjamshaid_" /></a> </p>
 
 
 Ammar here, a coder, just like you!
