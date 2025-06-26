@@ -1,8 +1,8 @@
-Ammar here, a coder, just like you!
+Ammar here, a software engineer, who loves to  code, read, & write!
 
-- 🔭 I’m currently working on my College Final Year Project & some personal projects
-- 🌱 I’m currently learning React & Solidity
-- 👯 I’m looking to collaborate on tiny JS projects
+- 🔭 I’m currently working as a Mobile Application Developer
+- 🌱 I’m currently developing cross-platform applications using Flutter
+- 👯 I’m currently learning & exploring generative AI development
 - 📫 How to reach me: hit me up on ammarkhalid247@gmail.com
 - ⚡ Fun fact: When I'm not coding, I love to write, or sometimes play cricket!
 
